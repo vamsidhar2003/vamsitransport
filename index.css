@@ -1,0 +1,20 @@
+
+body{
+    
+    text-align: center;
+    background-image:url('https://www.assalaamair.co.tz/wp-content/uploads/2022/01/couple-hiking-mountain-climbing-1296x728-header.webp');
+
+}
+p{
+    text-align: left;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+h5{
+    text-align: justify;
+    color:brown;
+}
+
